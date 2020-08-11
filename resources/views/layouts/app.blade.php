@@ -16,41 +16,41 @@
   <!-- Hero Section Begin -->
   <section class="hero-section">
     <div class="hero-items owl-carousel">
-      <div class="single-hero-items set-bg" data-setbg="{{ asset('frontend/img/masmis/cr_besar.jpg')}}">
-        <div class="container">
+      <div class="single-hero-items set-bg" data-setbg="{{ asset('frontend/img/masmis/caro.jpg')}}">
+        <!-- <div class="container">
           <div class="row">
             <div class="col-lg-5">
               <span>Produk kami</span>
               <h1>Kemasan Besar</h1>
-              
+
               <a href="#" class="primary-btn">Beli sekarang</a>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
-      <div class="single-hero-items set-bg" data-setbg="{{ asset('frontend/img/masmis/cr_medium.jpg')}}">
-        <div class="container">
+      <div class="single-hero-items set-bg" data-setbg="{{ asset('frontend/img/masmis/caro1.jpg')}}">
+        <!-- <div class="container">
           <div class="row">
             <div class="col-lg-5">
               <span>Produk kami</span>
               <h1>Kemasan Medium</h1>
-              
+
               <a href="#" class="primary-btn">Beli sekarang</a>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
-        <div class="single-hero-items set-bg" data-setbg="{{ asset('frontend/img/masmis/cr_kecil.jpg')}}">
-        <div class="container">
+      <div class="single-hero-items set-bg" data-setbg="{{ asset('frontend/img/masmis/caro2.jpg')}}">
+        <!-- <div class="container">
           <div class="row">
             <div class="col-lg-5">
               <span>Produk kami</span>
               <h1>Kemasan Kecil</h1>
-              
+
               <a href="#" class="primary-btn">Beli sekarang</a>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
   </section>

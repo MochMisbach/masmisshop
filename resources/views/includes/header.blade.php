@@ -38,9 +38,9 @@
          <div class="row">
            <div class="col-lg-2 col-md-2">
              <div class="logo">
-               <!-- <a href="./index.html">
-                 <img src="{{ asset('frontend/img/logo_website_shayna.png')}}" alt="" />
-               </a> -->
+               <a href="./index.html">
+                 <img src="{{ asset('frontend/img/masmis/mamis_logo.png')}}" height="300" alt="" />
+               </a>
              </div>
            </div>
            <div class="col-lg-7 col-md-7"></div>
